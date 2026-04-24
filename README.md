@@ -3,7 +3,105 @@
 - 시간 및 장소: 매주 변동 & BDD 디스코드 음성 채팅방
 - 스터디원: 8
 
-![img.png](img.png)
+<table>
+  <tr>
+    <td align="center" width="200">
+      <b>01</b><br>
+      발표자명<br><br>
+      <a href="https://www.youtube.com/watch?v=영상ID">디깅 주제</a><br><br>
+      <a href="https://www.youtube.com/watch?v=영상ID">
+        <img src="https://img.youtube.com/vi/영상ID/mqdefault.jpg" width="180" alt="1주차 디깅"/>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <b>02</b><br>
+      발표자명<br><br>
+      <a href="https://www.youtube.com/watch?v=영상ID">디깅 주제</a><br><br>
+      <a href="https://www.youtube.com/watch?v=영상ID">
+        <img src="https://img.youtube.com/vi/영상ID/mqdefault.jpg" width="180" alt="2주차 디깅"/>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <b>03</b><br>
+      발표자명<br><br>
+      <a href="https://www.youtube.com/watch?v=영상ID">디깅 주제</a><br><br>
+      <a href="https://www.youtube.com/watch?v=영상ID">
+        <img src="https://img.youtube.com/vi/영상ID/mqdefault.jpg" width="180" alt="3주차 디깅"/>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <b>04</b><br>
+      발표자명<br><br>
+      <a href="https://www.youtube.com/watch?v=영상ID">디깅 주제</a><br><br>
+      <a href="https://www.youtube.com/watch?v=영상ID">
+        <img src="https://img.youtube.com/vi/영상ID/mqdefault.jpg" width="180" alt="4주차 디깅"/>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <b>05</b><br>
+      발표자명<br><br>
+      <a href="https://www.youtube.com/watch?v=영상ID">디깅 주제</a><br><br>
+      <a href="https://www.youtube.com/watch?v=영상ID">
+        <img src="https://img.youtube.com/vi/영상ID/mqdefault.jpg" width="180" alt="5주차 디깅"/>
+      </a>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center" width="200">
+      <b>06</b><br>
+      발표자명<br><br>
+      <a href="https://www.youtube.com/watch?v=영상ID">디깅 주제</a><br><br>
+      <a href="https://www.youtube.com/watch?v=영상ID">
+        <img src="https://img.youtube.com/vi/영상ID/mqdefault.jpg" width="180" alt="6주차 디깅"/>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <b>07</b><br>
+      발표자명<br><br>
+      <a href="https://www.youtube.com/watch?v=영상ID">디깅 주제</a><br><br>
+      <a href="https://www.youtube.com/watch?v=영상ID">
+        <img src="https://img.youtube.com/vi/영상ID/mqdefault.jpg" width="180" alt="7주차 디깅"/>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <b>08</b><br>
+      발표자명<br><br>
+      <a href="https://www.youtube.com/watch?v=영상ID">디깅 주제</a><br><br>
+      <a href="https://www.youtube.com/watch?v=영상ID">
+        <img src="https://img.youtube.com/vi/영상ID/mqdefault.jpg" width="180" alt="8주차 디깅"/>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <b>09</b><br>
+      발표자명<br><br>
+      <a href="https://www.youtube.com/watch?v=영상ID">디깅 주제</a><br><br>
+      <a href="https://www.youtube.com/watch?v=영상ID">
+        <img src="https://img.youtube.com/vi/영상ID/mqdefault.jpg" width="180" alt="9주차 디깅"/>
+      </a>
+    </td>
+    <td align="center" width="200">
+    </td>
+  </tr>
+</table>
+<!--
+  ✏️ 업데이트 방법 (각 주차 카드 수정):
+  1. "발표자명" → 실제 이름으로 변경
+  2. "디깅 주제" → 발표 주제로 변경
+  3. "영상ID" → 유튜브 URL에서 v= 뒤의 ID로 변경 (한 카드당 3곳)
+     예: https://www.youtube.com/watch?v=dQw4w9WgXcQ → 영상ID는 dQw4w9WgXcQ
+
+예시 (완성된 카드):
+<td align="center" width="200">
+<b>01</b><br>
+블링<br><br>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">웹 접근성</a><br><br>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+<img src="https://img.youtube.com/vi/dQw4w9WgXcQ/mqdefault.jpg" width="180" alt="1주차 디깅"/>
+</a>
+</td>
+-->
 
 # 스터디 산출물
 - 해당 레포지토리에 공부한 내용 업로드
