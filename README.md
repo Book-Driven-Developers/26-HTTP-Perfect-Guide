@@ -10,7 +10,7 @@
       발표자명<br><br>
       <a href="https://www.youtube.com/watch?v=영상ID">디깅 주제</a><br><br>
       <a href="https://www.youtube.com/watch?v=영상ID">
-        <img src="https://img.youtube.com/vi/영상ID/mqdefault.jpg" width="180" alt="1주차 디깅"/>
+        <img src="https://img.youtube.com/vi/Di-MguFUUu8/mqdefault.jpg" width="180" alt="1주차 디깅"/>
       </a>
     </td>
     <td align="center" width="200">
@@ -18,7 +18,7 @@
       발표자명<br><br>
       <a href="https://www.youtube.com/watch?v=영상ID">디깅 주제</a><br><br>
       <a href="https://www.youtube.com/watch?v=영상ID">
-        <img src="https://img.youtube.com/vi/영상ID/mqdefault.jpg" width="180" alt="2주차 디깅"/>
+        <img src="https://img.youtube.com/vi/Di-MguFUUu8/mqdefault.jpg" width="180" alt="2주차 디깅"/>
       </a>
     </td>
     <td align="center" width="200">
@@ -26,7 +26,7 @@
       발표자명<br><br>
       <a href="https://www.youtube.com/watch?v=영상ID">디깅 주제</a><br><br>
       <a href="https://www.youtube.com/watch?v=영상ID">
-        <img src="https://img.youtube.com/vi/영상ID/mqdefault.jpg" width="180" alt="3주차 디깅"/>
+        <img src="https://img.youtube.com/vi/Di-MguFUUu8/mqdefault.jpg" width="180" alt="3주차 디깅"/>
       </a>
     </td>
     <td align="center" width="200">
@@ -34,7 +34,7 @@
       발표자명<br><br>
       <a href="https://www.youtube.com/watch?v=영상ID">디깅 주제</a><br><br>
       <a href="https://www.youtube.com/watch?v=영상ID">
-        <img src="https://img.youtube.com/vi/영상ID/mqdefault.jpg" width="180" alt="4주차 디깅"/>
+        <img src="https://img.youtube.com/vi/Di-MguFUUu8/mqdefault.jpg" width="180" alt="4주차 디깅"/>
       </a>
     </td>
     <td align="center" width="200">
@@ -42,7 +42,7 @@
       발표자명<br><br>
       <a href="https://www.youtube.com/watch?v=영상ID">디깅 주제</a><br><br>
       <a href="https://www.youtube.com/watch?v=영상ID">
-        <img src="https://img.youtube.com/vi/영상ID/mqdefault.jpg" width="180" alt="5주차 디깅"/>
+        <img src="https://img.youtube.com/vi/Di-MguFUUu8/mqdefault.jpg" width="180" alt="5주차 디깅"/>
       </a>
     </td>
   </tr>
@@ -54,7 +54,7 @@
       발표자명<br><br>
       <a href="https://www.youtube.com/watch?v=영상ID">디깅 주제</a><br><br>
       <a href="https://www.youtube.com/watch?v=영상ID">
-        <img src="https://img.youtube.com/vi/영상ID/mqdefault.jpg" width="180" alt="6주차 디깅"/>
+        <img src="https://img.youtube.com/vi/Di-MguFUUu8/mqdefault.jpg" width="180" alt="6주차 디깅"/>
       </a>
     </td>
     <td align="center" width="200">
@@ -62,7 +62,7 @@
       발표자명<br><br>
       <a href="https://www.youtube.com/watch?v=영상ID">디깅 주제</a><br><br>
       <a href="https://www.youtube.com/watch?v=영상ID">
-        <img src="https://img.youtube.com/vi/영상ID/mqdefault.jpg" width="180" alt="7주차 디깅"/>
+        <img src="https://img.youtube.com/vi/Di-MguFUUu8/mqdefault.jpg" width="180" alt="7주차 디깅"/>
       </a>
     </td>
     <td align="center" width="200">
@@ -70,7 +70,7 @@
       발표자명<br><br>
       <a href="https://www.youtube.com/watch?v=영상ID">디깅 주제</a><br><br>
       <a href="https://www.youtube.com/watch?v=영상ID">
-        <img src="https://img.youtube.com/vi/영상ID/mqdefault.jpg" width="180" alt="8주차 디깅"/>
+        <img src="https://img.youtube.com/vi/Di-MguFUUu8/mqdefault.jpg" width="180" alt="8주차 디깅"/>
       </a>
     </td>
     <td align="center" width="200">
@@ -78,7 +78,7 @@
       발표자명<br><br>
       <a href="https://www.youtube.com/watch?v=영상ID">디깅 주제</a><br><br>
       <a href="https://www.youtube.com/watch?v=영상ID">
-        <img src="https://img.youtube.com/vi/영상ID/mqdefault.jpg" width="180" alt="9주차 디깅"/>
+        <img src="https://img.youtube.com/vi/Di-MguFUUu8/mqdefault.jpg" width="180" alt="9주차 디깅"/>
       </a>
     </td>
     <td align="center" width="200">
