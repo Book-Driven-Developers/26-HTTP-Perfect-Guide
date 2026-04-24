@@ -107,6 +107,7 @@
 - 해당 레포지토리에 공부한 내용 업로드
 - 주차 별 Driver는 해당 주차 스터디 진행과 디깅한 내용을 5~10분 가량 준비하고 발표해야 함.
 - Driver가 아닌 인원은 서술형으로 토론을 나눌 수 있는 퀴즈를 문제 + 답변으로 2가지 준비해야 함.
+  - https://github.com/Book-Driven-Developers/26-HTTP-Perfect-Guide/discussions
 
 # 진행방식
 - 매주 정해진 분량의 HTTP 완벽 가이드를 읽고 정리하고 서로 리뷰 및 토론하는 방식으로 진행
